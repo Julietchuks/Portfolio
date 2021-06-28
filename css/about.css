@@ -236,19 +236,19 @@ header img {
 }
 
 .survey-project {
-  background-image: url("../images/project-survey.png");
+  background-image: url("../imgs/project-survey.png");
 }
 
 .landing-project {
-  background-image: url("../images/project-yoga-landing-page.png");
+  background-image: url("../imgs/project-yoga-landing-page.png");
 }
 
 .animation-project {
-  background-image: url("/images/Ebook.png");
+  background-image: url("/imgs/Ebook.png");
 }
 
 .blog-project {
-  background-image: url("../images/project-the-food-blog.png");
+  background-image: url("../imgs/project-the-food-blog.png");
 }
 
 #education li {
@@ -263,11 +263,11 @@ header img {
 }
 
 .paderborn {
-  background-image: url("../images/Logo_pader.png");
+  background-image: url("../imgs/Logo_pader.png");
 }
 
 .tambov {
-  background-image: url("../images/Logo_tambov.png");
+  background-image: url("../imgs/Logo_tambov.png");
 }
 
 .icon-container {
